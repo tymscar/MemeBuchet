@@ -35,6 +35,7 @@ The 3D models are made in [MagicaVoxel](https://ephtracy.github.io/).
 
 * Tymscar (Oscar Molnar - me)
   * Github: [Tymscar](https://www.github.com/tymscar)
+  * Linkedin: [Tymscar](www.linkedin.com/in/tymscar)
   * Twitter: [Tymscar](https://www.twitter.com/tymscar)
   * Facebook: [Tymscar](https://www.facebook.com/tymscar)
   * Reddit: [Tymscar](https://www.reddit.com/u/tymscar)
